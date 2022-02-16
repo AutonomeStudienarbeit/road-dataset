@@ -3,3 +3,7 @@ script.sh
 plotted-images
 .idea
 .idea/
+**/rgb-images
+**/videos
+**/instance_counts.json
+**/road_trainval_v1.0.json
